@@ -1,0 +1,2 @@
+GhostSec was hitting multiple ISP's state owned in nigeria one of which were 9MobileNG our foothold was a cisco login reusing credentials
+we have also defaced all their win rdp's and left a message to them, in support for #endsars we had pwned 9mobileNG and many other isps including telecomhoops.
